@@ -1,0 +1,12 @@
+If you just received the crazyradio PA, you probably should flash its firmware.
+To do so, use the following command:
+
+sudo python ../usb-flash.py cradio-pa-0.53.bin
+
+
+Here are the VendorId/ProductID when the Crazyradio is correctly flashed
+
+1915:7777: regular Crazyradio firmware
+1915:0101: bootloader mode
+1915:0102: mousejacked
+nothing: fix with SPI
