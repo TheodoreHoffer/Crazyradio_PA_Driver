@@ -54,5 +54,3 @@ Example : sudo ./nordic_configurator --radiochannel 123 --ackenable 1
 
 For options explanations, read, in "Documentation" directory:
 doc_crazyradio_usb_index [Bitcraze Wiki].pdf
-
-# Crazyradio_PA_Driver
