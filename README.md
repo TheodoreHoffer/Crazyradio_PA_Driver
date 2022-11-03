@@ -1,5 +1,5 @@
-# NordicDriverDemo
-***NordicDriverDemo* is a demonstration of usb device module writing for linux, based on the Bitcraze Crazyradio PA peripheral.**
+# Crazyradio_PA_Driver
+***NordicDriverDemo* is a demonstration of usb device module writing for linux, based on the Bitcraze Crazyradio PA device.**
 
 These sources contain :
 - The fully functional driver.
@@ -55,4 +55,3 @@ Example : sudo ./nordic_configurator --radiochannel 123 --ackenable 1
 For options explanations, read, in "Documentation" directory:
 doc_crazyradio_usb_index [Bitcraze Wiki].pdf
 
-# Crazyradio_PA_Driver
