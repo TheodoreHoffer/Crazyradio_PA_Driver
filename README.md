@@ -1,4 +1,4 @@
-# NordicDriverDemo
+# Crazyradio_Pa_Driver
 ***NordicDriverDemo* is a demonstration of usb device module writing for linux, based on the Bitcraze Crazyradio PA peripheral.**
 
 These sources contain :
